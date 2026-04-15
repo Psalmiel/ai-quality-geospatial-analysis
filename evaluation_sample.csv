@@ -1,0 +1,5 @@
+Prompt,Accuracy,Clarity,Relevance,Consistency,Notes
+Loan eligibility criteria,9,8,9,8,Slight ambiguity
+Fraud detection explanation,7,7,8,7,Missing edge cases
+Location risk analysis,5,6,6,5,Poor geographic reasoning
+Customer segmentation,8,8,7,8,Good structure
